@@ -30,5 +30,5 @@ O projeto foi desenvolvido para estudantes que precisam lidar com grandes volume
 Primeiro, clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/chatbot-pdf-content.git
+git clone https://github.com/dmsystem/chatbot-pdf-content.git
 cd chatbot-pdf-content
